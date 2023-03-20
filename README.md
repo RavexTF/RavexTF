@@ -1,25 +1,23 @@
 <div align="center">
-	<img src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif" width="150"/>
+	<img src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif" width="250"/>
 	<div id="badges">
-	  <a href="https://twitter.de/ravextf">
-	    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-	  </a>
-	  <a>
-	  <img
-	  src="https://img.shields.io/badge/-%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%A1'%232649-%237289da?style=for-the-badge&logo=discord&logoColor=white"
-	  alt="Discord Badge">
-	  </a>
+		<a href="https://twitter.de/ravextf">
+			<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+		</a>
+		<a>
+			<img 
+			src="https://img.shields.io/badge/-%F0%9D%9A%9B%F0%9D%9A%8A%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%A1'%232649-%237289da?style=for-the-badge&logo=discord&logoColor=white" 
+			alt="Discord Badge"/>
+		</a>
 	</div>
 	<img src="https://komarev.com/ghpvc/?username=RavexTF"/>
-	<h2>
-		Hey 👋
-	</h2>
+	<h2>Hey 👋</h2>
 </div>
 <!--<div align="center">
 	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> # Ja bruder sah doch nicht so cool aus
 </div>-->
 
-<hr>
+---
 
 ### 👨‍💼 About me
 
@@ -27,7 +25,7 @@
 - :zap: In my free time I sometimes try to work on projects, as an example my last and still somewhat current project: https://github.com/RavexTF/haunter-firmware
 - :mailbox: I am reachable via Discord
 
-<hr>
+---
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
@@ -41,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<hr>
+---
 
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RavexTF&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
