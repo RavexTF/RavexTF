@@ -15,9 +15,9 @@
 		Hey 👋
 	</h2>
 </div>
-<div align="center">
-	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<!--<div align="center">
+	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> # Ja bruder sah doch nicht so cool aus
+</div>-->
 
 <hr>
 
@@ -46,11 +46,14 @@
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RavexTF&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavexTF&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavexTF&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) # bruder hier zeigt er irgendwie nichts an
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=RavexTF&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
 RavexTF/RavexTF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+# Nein ich entferne das nicht!
 --->
